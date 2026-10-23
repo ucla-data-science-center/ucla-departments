@@ -24,5 +24,5 @@ Corrections, additions and de-dpulications appreciated.
 
 - Names follow the General Catalog spelling ("and", not "&").
 - Duplicates and program variants from the 2021 list ("Statistics - Master of Applied Statistics", "Economics Department") are folded into one name and recorded in the aliases file.
-- Entries that are not in the current catalog (for example "Library") are kept so existing forms keep working.
+- Entries that are not in the current catalog (for example "Library", "Greek", "Latin") are kept so existing forms keep working.
 - This is a department list, not a Humanities Division list. Classifying units by division is done elsewhere.
